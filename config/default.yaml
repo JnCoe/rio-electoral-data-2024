@@ -1,0 +1,23 @@
+inputs:
+  raw_votes_path: "/mnt/d/Users/jonas/Downloads/votacao_secao_2024_RJ.csv"
+  candidate_path: "/mnt/d/Users/jonas/Downloads/consulta_cand_2024_RJ.csv"
+  separator: ";"
+  encoding: "latin1"
+  infer_schema_length: 2000
+
+filters:
+  municipality_code: "60011"
+  cargos: []  # empty means all cargos
+
+processing:
+  address_suffix: ", Rio de Janeiro - RJ, Brasil"
+  proportion_precision: 2
+  output_base: "data"
+  processed_dir: "data/processed"
+  candidates_summary: "data/candidates.csv"
+  voting_locations_json: "data/processed/voting_locations.json"
+  votes_pattern: "data/processed/votes_{sq_candidato}.json"
+  candidates_cache: false
+
+logging:
+  level: "INFO"

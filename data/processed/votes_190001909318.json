@@ -1,0 +1,386 @@
+[
+  {
+    "location_id": 492,
+    "votes": 5,
+    "proportion": 0.26,
+    "total_votes_location": 1919
+  },
+  {
+    "location_id": 1143,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 6591
+  },
+  {
+    "location_id": 1338,
+    "votes": 1,
+    "proportion": 0.03,
+    "total_votes_location": 3740
+  },
+  {
+    "location_id": 512,
+    "votes": 2,
+    "proportion": 0.13,
+    "total_votes_location": 1593
+  },
+  {
+    "location_id": 730,
+    "votes": 1,
+    "proportion": 0.04,
+    "total_votes_location": 2817
+  },
+  {
+    "location_id": 1284,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 4181
+  },
+  {
+    "location_id": 368,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 4328
+  },
+  {
+    "location_id": 491,
+    "votes": 1,
+    "proportion": 0.04,
+    "total_votes_location": 2545
+  },
+  {
+    "location_id": 1266,
+    "votes": 1,
+    "proportion": 0.03,
+    "total_votes_location": 2970
+  },
+  {
+    "location_id": 1162,
+    "votes": 1,
+    "proportion": 0.06,
+    "total_votes_location": 1734
+  },
+  {
+    "location_id": 858,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 4862
+  },
+  {
+    "location_id": 497,
+    "votes": 1,
+    "proportion": 0.04,
+    "total_votes_location": 2552
+  },
+  {
+    "location_id": 1325,
+    "votes": 5,
+    "proportion": 0.39,
+    "total_votes_location": 1294
+  },
+  {
+    "location_id": 318,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 4597
+  },
+  {
+    "location_id": 1209,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 4517
+  },
+  {
+    "location_id": 1260,
+    "votes": 1,
+    "proportion": 0.05,
+    "total_votes_location": 1952
+  },
+  {
+    "location_id": 394,
+    "votes": 2,
+    "proportion": 0.03,
+    "total_votes_location": 7589
+  },
+  {
+    "location_id": 304,
+    "votes": 2,
+    "proportion": 0.05,
+    "total_votes_location": 3889
+  },
+  {
+    "location_id": 429,
+    "votes": 3,
+    "proportion": 0.14,
+    "total_votes_location": 2181
+  },
+  {
+    "location_id": 303,
+    "votes": 2,
+    "proportion": 0.06,
+    "total_votes_location": 3313
+  },
+  {
+    "location_id": 652,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 4066
+  },
+  {
+    "location_id": 579,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 5080
+  },
+  {
+    "location_id": 371,
+    "votes": 15,
+    "proportion": 1.2,
+    "total_votes_location": 1250
+  },
+  {
+    "location_id": 574,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 4149
+  },
+  {
+    "location_id": 31,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 6093
+  },
+  {
+    "location_id": 1133,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 4426
+  },
+  {
+    "location_id": 445,
+    "votes": 4,
+    "proportion": 0.11,
+    "total_votes_location": 3670
+  },
+  {
+    "location_id": 1413,
+    "votes": 1,
+    "proportion": 0.01,
+    "total_votes_location": 13835
+  },
+  {
+    "location_id": 129,
+    "votes": 2,
+    "proportion": 0.07,
+    "total_votes_location": 2819
+  },
+  {
+    "location_id": 910,
+    "votes": 1,
+    "proportion": 0.04,
+    "total_votes_location": 2513
+  },
+  {
+    "location_id": 305,
+    "votes": 2,
+    "proportion": 0.12,
+    "total_votes_location": 1615
+  },
+  {
+    "location_id": 327,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 5070
+  },
+  {
+    "location_id": 587,
+    "votes": 1,
+    "proportion": 0.03,
+    "total_votes_location": 3822
+  },
+  {
+    "location_id": 195,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 4612
+  },
+  {
+    "location_id": 1036,
+    "votes": 2,
+    "proportion": 0.03,
+    "total_votes_location": 6337
+  },
+  {
+    "location_id": 701,
+    "votes": 1,
+    "proportion": 0.03,
+    "total_votes_location": 3536
+  },
+  {
+    "location_id": 1299,
+    "votes": 1,
+    "proportion": 0.04,
+    "total_votes_location": 2223
+  },
+  {
+    "location_id": 487,
+    "votes": 1,
+    "proportion": 0.01,
+    "total_votes_location": 7389
+  },
+  {
+    "location_id": 490,
+    "votes": 25,
+    "proportion": 1.16,
+    "total_votes_location": 2164
+  },
+  {
+    "location_id": 452,
+    "votes": 11,
+    "proportion": 0.91,
+    "total_votes_location": 1212
+  },
+  {
+    "location_id": 141,
+    "votes": 1,
+    "proportion": 0.04,
+    "total_votes_location": 2763
+  },
+  {
+    "location_id": 1281,
+    "votes": 1,
+    "proportion": 0.03,
+    "total_votes_location": 2991
+  },
+  {
+    "location_id": 627,
+    "votes": 1,
+    "proportion": 0.01,
+    "total_votes_location": 12420
+  },
+  {
+    "location_id": 82,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 4024
+  },
+  {
+    "location_id": 496,
+    "votes": 91,
+    "proportion": 1.19,
+    "total_votes_location": 7670
+  },
+  {
+    "location_id": 1351,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 4445
+  },
+  {
+    "location_id": 1165,
+    "votes": 2,
+    "proportion": 0.03,
+    "total_votes_location": 6791
+  },
+  {
+    "location_id": 582,
+    "votes": 1,
+    "proportion": 0.03,
+    "total_votes_location": 3844
+  },
+  {
+    "location_id": 1294,
+    "votes": 1,
+    "proportion": 0.05,
+    "total_votes_location": 1896
+  },
+  {
+    "location_id": 495,
+    "votes": 3,
+    "proportion": 0.04,
+    "total_votes_location": 6686
+  },
+  {
+    "location_id": 9,
+    "votes": 1,
+    "proportion": 0.04,
+    "total_votes_location": 2693
+  },
+  {
+    "location_id": 1039,
+    "votes": 1,
+    "proportion": 0.04,
+    "total_votes_location": 2444
+  },
+  {
+    "location_id": 989,
+    "votes": 1,
+    "proportion": 0.03,
+    "total_votes_location": 3781
+  },
+  {
+    "location_id": 1317,
+    "votes": 1,
+    "proportion": 0.08,
+    "total_votes_location": 1311
+  },
+  {
+    "location_id": 598,
+    "votes": 2,
+    "proportion": 0.05,
+    "total_votes_location": 4086
+  },
+  {
+    "location_id": 482,
+    "votes": 1,
+    "proportion": 0.03,
+    "total_votes_location": 3805
+  },
+  {
+    "location_id": 489,
+    "votes": 1,
+    "proportion": 0.04,
+    "total_votes_location": 2711
+  },
+  {
+    "location_id": 1118,
+    "votes": 1,
+    "proportion": 0.02,
+    "total_votes_location": 5931
+  },
+  {
+    "location_id": 72,
+    "votes": 18,
+    "proportion": 0.73,
+    "total_votes_location": 2475
+  },
+  {
+    "location_id": 414,
+    "votes": 1,
+    "proportion": 0.01,
+    "total_votes_location": 7631
+  },
+  {
+    "location_id": 946,
+    "votes": 2,
+    "proportion": 0.06,
+    "total_votes_location": 3432
+  },
+  {
+    "location_id": 514,
+    "votes": 32,
+    "proportion": 1.38,
+    "total_votes_location": 2316
+  },
+  {
+    "location_id": 38,
+    "votes": 1,
+    "proportion": 0.03,
+    "total_votes_location": 2947
+  },
+  {
+    "location_id": 1213,
+    "votes": 1,
+    "proportion": 0.01,
+    "total_votes_location": 7124
+  }
+]

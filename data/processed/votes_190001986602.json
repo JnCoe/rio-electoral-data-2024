@@ -1,0 +1,26 @@
+[
+  {
+    "location_id": 325,
+    "votes": 1,
+    "proportion": 0.07,
+    "total_votes_location": 1427
+  },
+  {
+    "location_id": 439,
+    "votes": 1,
+    "proportion": 0.01,
+    "total_votes_location": 9491
+  },
+  {
+    "location_id": 648,
+    "votes": 3,
+    "proportion": 0.06,
+    "total_votes_location": 4643
+  },
+  {
+    "location_id": 323,
+    "votes": 1,
+    "proportion": 0.04,
+    "total_votes_location": 2557
+  }
+]

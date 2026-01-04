@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+old_script.py
+scripts/fix_vote_filenames.py
+INTEGRATION_GUIDE.md

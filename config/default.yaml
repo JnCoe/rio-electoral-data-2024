@@ -1,6 +1,6 @@
 inputs:
-  raw_votes_path: "/mnt/d/Users/jonas/Downloads/votacao_secao_2024_RJ.csv"
-  candidate_path: "/mnt/d/Users/jonas/Downloads/consulta_cand_2024_RJ.csv"
+  raw_votes_path: "../Downloads/votacao_secao_2024_RJ.csv"
+  candidate_path: "../Downloads/consulta_cand_2024_RJ.csv"
   separator: ";"
   encoding: "latin1"
   infer_schema_length: 2000
@@ -21,3 +21,17 @@ processing:
 
 logging:
   level: "INFO"
+
+geocoding:
+  provider: "nominatim"
+  user_agent: "rio-electoral-map-2024"
+  rate_limit_seconds: 1.0
+  sample_limit: 5           # default small test run
+  output_raw: "data/processed/voting_locations_geocoded.json"
+  output_clean: "data/processed/voting_locations_geocoded_cleaned.json"
+  boundaries:
+    west: -43.795145091171115
+    east: -43.101764905056264
+    south: -23.075674167822243
+    north: -22.746165171947133
+  duplicate_offset_meters: 30
